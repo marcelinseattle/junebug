@@ -1,0 +1,23 @@
+body {
+  background-color: powderblue;
+  padding-left: 15%;
+}
+
+h1 {
+  font-family: cursive;
+  color: #404040;
+  font-size: 50px;
+}
+
+h3 {
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+}
+
+img {
+  border: 20px solid;
+  border-color: #404040;
+}
+a {
+  color: blue;
+}
