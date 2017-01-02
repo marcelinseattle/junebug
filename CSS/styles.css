@@ -2,7 +2,18 @@ body {
   background-color: powderblue;
   padding-left: 15%;
 }
+.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.navlist{
+  float: left;
+  padding: 10px;
+}
 
+/* Font Styles */
 h1 {
   font-family: cursive;
   color: #404040;
@@ -14,10 +25,18 @@ h3 {
   font-size: 18px;
 }
 
+/* Image */
 img {
   border: 20px solid;
   border-color: #404040;
 }
+
+/* Links */
 a {
   color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  color: yellow;
 }
