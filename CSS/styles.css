@@ -28,8 +28,9 @@ h3 {
 
 /* Image */
 img {
-  border: 20px solid;
-  border-color: #404040;
+  border: 10px solid;
+  border-color: white;
+  border-radius: 80%;
 }
 
 /* Links */
