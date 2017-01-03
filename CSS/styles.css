@@ -5,10 +5,11 @@ body {
 /* Navigation */
 .nav {
   list-style-type: none;
-  padding: 0;
+  padding-left: 7%;
   overflow: hidden;
   background-color: white;
-  margin-left: -15%;
+  margin-left: -20%;
+  margin-right: -5%;
 }
 .navlist{
   float: left;
