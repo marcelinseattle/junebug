@@ -1,12 +1,12 @@
-#_{Junebug's Website}_
+#_Junebug's Website_
 
-####_{A Black Cat's Blog}_
+####_A Black Cat's Blog_
 
-#### By _**{Lawrence Eby and Marcel No}**_
+#### By _**Lawrence Eby and Marcel No**_
 
 ## Description
 
-_{This is a blog about a black cat and all of his insane, daily activities}_
+_This is a blog about a black cat and all of his insane, daily activities_
 
 ## Setup/Installation Requirements
 
@@ -14,19 +14,19 @@ _{This is a blog about a black cat and all of his insane, daily activities}_
 
 ## Known Bugs
 
-_{The Nav Bar isn't quite spanning 100% of the screen and needs some work.}
+_The Nav Bar isn't quite spanning 100% of the screen and needs some work._
 
 ## Support and contact details
 
-_{If you have issues, contact your momma}
+_If you have issues, contact your momma_
 
 # Technologies Used
 
-_{HTML, CSS}
+_HTML, CSS_
 
 ### License
 
-*{MIT License
+*_MIT License_
 
 Copyright (c) 2017 Lawrence Eby and Marcel No
 
@@ -46,4 +46,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.}
+SOFTWARE.
