@@ -6,19 +6,19 @@
 
 ## Description
 
-_This is a blog about a black cat and all of his insane, daily activities_
+This is a blog about a black cat and all of his insane, daily activities
 
 ## Setup/Installation Requirements
 
-_You'll need a html5 compatible browser_
+You'll need a html5 compatible browser
 
 ## Known Bugs
 
-_The Nav Bar isn't quite spanning 100% of the screen and needs some work._
+The Nav Bar isn't quite spanning 100% of the screen and needs some work.
 
 ## Support and contact details
 
-_If you have issues, contact your momma_
+If you have issues, contact your momma
 
 # Technologies Used
 
@@ -26,9 +26,9 @@ _HTML, CSS_
 
 ### License
 
-_MIT License_
+MIT License
 
-*Copyright (c) 2017 Lawrence Eby and Marcel No*
+_Copyright (c) 2017 Lawrence Eby and Marcel No_
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
