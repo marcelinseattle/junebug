@@ -10,7 +10,7 @@ _This is a blog about a black cat and all of his insane, daily activities_
 
 ## Setup/Installation Requirements
 
-*_You'll need a html5 compatible browser_
+_You'll need a html5 compatible browser_
 
 ## Known Bugs
 
@@ -26,9 +26,9 @@ _HTML, CSS_
 
 ### License
 
-*_MIT License_
+_MIT License_
 
-Copyright (c) 2017 Lawrence Eby and Marcel No
+*Copyright (c) 2017 Lawrence Eby and Marcel No*
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
