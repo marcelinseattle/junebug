@@ -1,0 +1,27 @@
+li {
+  font-size: 20px;
+}
+
+h2 {
+  color: gray;
+}
+
+h3 {
+  text-align: right;
+}
+
+h4 {
+  text-decoration: underline;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 250px;
+}
+
+p {
+  color: red;
+}

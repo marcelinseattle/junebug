@@ -1,48 +1,14 @@
-body {
-  background-color: powderblue;
-  margin-left: 15%;
-}
-/* Navigation */
-.nav {
-  list-style-type: none;
-  padding-left: 7%;
-  overflow: hidden;
-  background-color: white;
-  margin-left: -20%;
-  margin-right: -5%;
-}
-.navlist{
-  float: left;
-  padding: 10px;
-  display: block;
-}
-
-/* Font Styles */
 h1 {
-  font-family: cursive;
-  color: #404040;
-  font-size: 50px;
-  margin-left: -15%;
+  color: #059bc4;
 }
 
-h3 {
-  font-family: Arial, sans-serif;
-  font-size: 18px;
-}
 
-/* Image */
-img {
-  border: 10px solid;
-  border-color: white;
-  border-radius: 80%;
+body {
+  background-color: #d0d378;
+  margin-left: 14%;
+  margin-top: 5%;
 }
-
-/* Links */
-a {
-  color: blue;
-  text-decoration: none;
-}
-
-a:hover {
-  color: yellow;
+p {
+text-align: left;
+font-size: 20px;
 }
